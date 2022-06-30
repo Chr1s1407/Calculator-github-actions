@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   deploy:
-    name: Deploying to Testflight
+    name: Deploying to Testflightr3
     runs-on: macOS-latest
     steps:
       - name: Checkout repository
